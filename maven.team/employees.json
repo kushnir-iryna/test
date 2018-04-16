@@ -1,0 +1,20 @@
+[
+	{
+		"firstName" : "Iryna",
+		"lastName" : "Polihas",
+		"position" : "Junior",
+		"salary" : "500"
+	},
+	{
+		"firstName" : "Ivan",
+		"lastName" : "Ivanov",
+		"position" : "Junior",
+		"salary" : "1200"
+	},
+	{
+		"firstName" : "Maria",
+		"lastName" : "Ivanova",
+		"position" : "Junior",
+		"salary" : "700"
+	}
+]
